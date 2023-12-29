@@ -6,6 +6,7 @@ Links to Hub75 info
 * https://github.com/hzeller/rpi-rgb-led-matrix
 * https://learn.adafruit.com/32x16-32x32-rgb-led-matrix/overview
 * https://learn.adafruit.com/adafruit-protomatter-rgb-matrix-library/overview
+* http://kuku.eu.org/?projects/hub75e/index
 * https://www.reddit.com/r/raspberry_pi/comments/r7v4xo/raspberry_pi_pico_driving_64x32_ledmatrix_over/
 * https://github.com/board707/DMD_STM32/tree/dev-V2
 * https://github.com/board707/DMD_STM32/wiki/Connections---RGB#connections---rgb
