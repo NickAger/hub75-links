@@ -13,6 +13,9 @@ Links to Hub75 info
 * https://community.pixelmatix.com/t/rp2040-hub75-dma-driver/1254
 * https://www.reddit.com/r/raspberry_pi/comments/pze4j1/woohoo_finally_finished_my_pi_pico_micropython/
 * https://hackaday.com/2015/01/05/rgb-led-matrices-with-the-stm32-and-dma/
+* https://github.com/pimoroni/pimoroni-pico/tree/main/examples/interstate75
+* https://github.com/pimoroni/pimoroni-pico/blob/main/micropython/modules_py/interstate75.md
+* https://github.com/pimoroni/pimoroni-pico/tree/main/micropython/examples/interstate75
 
 ## Hub75 matrix for sale
 
